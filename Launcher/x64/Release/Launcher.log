@@ -1,0 +1,2 @@
+﻿MSVCRT.lib(exe_main.obj) : error LNK2001: unresolved external symbol main
+D:\Puck\CampusPatch2025\Launcher\Campus\x64\Release\CampusLauncher2025.exe : fatal error LNK1120: 1 unresolved externals

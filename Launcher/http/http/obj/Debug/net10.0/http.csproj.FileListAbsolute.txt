@@ -1,0 +1,4 @@
+D:\Puck\CampusPatch2025\Launcher\http\http\obj\Debug\net10.0\http.GeneratedMSBuildEditorConfig.editorconfig
+D:\Puck\CampusPatch2025\Launcher\http\http\obj\Debug\net10.0\http.AssemblyInfoInputs.cache
+D:\Puck\CampusPatch2025\Launcher\http\http\obj\Debug\net10.0\http.AssemblyInfo.cs
+D:\Puck\CampusPatch2025\Launcher\http\http\obj\Debug\net10.0\http.csproj.CoreCompileInputs.cache

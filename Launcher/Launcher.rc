@@ -1,0 +1,49 @@
+// CampusLauncher2025 resources.
+//
+// Windows Explorer picks the *first* ICON resource by numeric ID as the .exe's shell icon,
+// so we deliberately give this one ID 1 to guarantee it wins if a future resource is added
+// with a higher ID. CampusIcon.ico sits next to this .rc file (copied there from
+// D:\Puck\Campus2025\CampusIcon.ico) so the resource compiler resolves it without an
+// absolute path - keeps the project relocatable.
+
+#include <windows.h>
+
+1 ICON "CampusIcon.ico"
+
+// Admin-panel-style assets, embedded as binary. Launcher.cpp loads each via
+// FindResource(MAKEINTRESOURCE(N), RT_RCDATA) then decodes via WIC.
+// IDs must match the IDR_* macros in Launcher.cpp.
+200 RCDATA "AnimatedIcon.png"    // tiled face pattern overlay
+201 RCDATA "Background.png"      // full-window gradient backdrop (same one the admin panel uses)
+202 RCDATA "Cutout.png"          // "CAMPUS" logo (face + text combined)
+203 RCDATA "Rubik-Variable.ttf"  // Rubik variable-weight TTF - the branded typeface
+
+// Minimal VERSIONINFO so Explorer's Properties dialog shows a real name/publisher instead
+// of "CampusLauncher2025.exe" with blank metadata. Not required for functionality.
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION     1,0,0,0
+ PRODUCTVERSION  1,0,0,0
+ FILEFLAGSMASK   0x3fL
+ FILEFLAGS       0x0L
+ FILEOS          VOS_NT_WINDOWS32
+ FILETYPE        VFT_APP
+ FILESUBTYPE     0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904b0"
+        BEGIN
+            VALUE "CompanyName",      "Campus"
+            VALUE "FileDescription",  "Campus Launcher (2025)"
+            VALUE "FileVersion",      "1.0.0.0"
+            VALUE "InternalName",     "CampusLauncher2025"
+            VALUE "OriginalFilename", "CampusLauncher2025.exe"
+            VALUE "ProductName",      "Campus"
+            VALUE "ProductVersion",   "1.0.0.0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x0409, 0x04b0
+    END
+END
