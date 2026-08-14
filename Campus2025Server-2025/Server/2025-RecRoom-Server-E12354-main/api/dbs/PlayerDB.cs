@@ -11,6 +11,7 @@ using Campus_live_rewrite.api.server.Classes.db_class;
 using Campus_live_rewrite.Controllers;
 using SixLabors.ImageSharp;
 using static ImageMetadataDB;
+using Campus_live_rewrite.api.debug_db;
 
 namespace Campus_live_rewrite.api.dbs
 {
@@ -23,67 +24,77 @@ namespace Campus_live_rewrite.api.dbs
         public static bool CreateAccount(Platforms platform, ulong platformId, string deviceId, ulong discord_id, out account_data account)
         {
             account = new account_data();
+            RegisterPlayersDTO registerPlayersDTO = new RegisterPlayersDTO();
 
-            Console.WriteLine($"[CreateAccount] === START === platform={platform} platformId={platformId} deviceId='{deviceId}' discord_id={discord_id}");
-
-            var col = PlayerDBFile.GetCollection<player_data>("players");
-            var maxId = col.FindAll().OrderByDescending(x => x.id).FirstOrDefault()?.id ?? 0;
-            ulong accid = maxId + 1;
-            account.accountId = accid;
-            string name = Utils.GetRandomName();
-
-            Console.WriteLine($"[CreateAccount] Assigning accid={accid} (maxId was {maxId}), generated name='{name}'");
-
-            account = new account_data
+            RegisterPlayersDTO? regData = JsonConvert.DeserializeObject<RegisterPlayersDTO>(File.ReadAllText(Environment.CurrentDirectory + $"\\Data\\data_debug\\registers.json"));
+            if(regData?.RegisterIds.Contains(deviceId) == true)
             {
-                createdAt = DateTime.UtcNow,
-                identityFlags = 0,
-                isJunior = null,
-                personalPronouns = 0,
-                platforms = 0,
-                displayName = name,
-                username = name,
-                profileImage = "DefaultPFP.png",
-                accountId = accid
-            };
-            col.Insert(new player_data
+                Console.WriteLine($"[CreateAccount] Device ID '{deviceId}' is in the register list. Account creation denied.");
+                return false;
+            }
+            else
             {
-                playerid = account.accountId,
-                id = accid,
-                platform = platform,
-                //platformId = platformId,
-                deviceId = new List<string>
+                File.WriteAllText(Environment.CurrentDirectory + $"\\Data\\data_debug\\registers.json", JsonConvert.SerializeObject(regData));
+                Console.WriteLine($"[CreateAccount] === START === platform={platform} platformId={platformId} deviceId='{deviceId}' discord_id={discord_id}");
+
+                var col = PlayerDBFile.GetCollection<player_data>("players");
+                var maxId = col.FindAll().OrderByDescending(x => x.id).FirstOrDefault()?.id ?? 0;
+                ulong accid = maxId + 1;
+                account.accountId = accid;
+                string name = Utils.GetRandomName();
+
+                Console.WriteLine($"[CreateAccount] Assigning accid={accid} (maxId was {maxId}), generated name='{name}'");
+
+                account = new account_data
+                {
+                    createdAt = DateTime.UtcNow,
+                    identityFlags = 0,
+                    isJunior = null,
+                    personalPronouns = 0,
+                    platforms = 0,
+                    displayName = name,
+                    username = name,
+                    profileImage = "DefaultPFP.png",
+                    accountId = accid
+                };
+                col.Insert(new player_data
+                {
+                    playerid = account.accountId,
+                    id = accid,
+                    platform = platform,
+                    //platformId = platformId,
+                    deviceId = new List<string>
                 {
                     deviceId
                 },
-                authtoken = Utils.GetRandomString(400),
-                password = "",
-                player = new player_info
-                {
-                    Id = accid,
-                    Username = account.username,
-                    DisplayName = account.displayName,
-                    XP = 0,
-                    Level = 1,
-                    created_at = account.createdAt,
-                    bannerImage = null,
-                    profileImage = account.profileImage,
-                    IsJunior = false,
-                    AvoidJuniors = true,
-                    PlayerReputation = new mPlayerReputation
+                    authtoken = Utils.GetRandomString(400),
+                    password = "",
+                    player = new player_info
                     {
-                        Noteriety = 0,
-                        CheerCredit = 20,
-                        CheerGeneral = 1,
-                        CheerHelpful = 1,
-                        CheerGreatHost = 1,
-                        CheerSportsman = 1,
-                        CheerCreative = 1,
-                        SubscriberCount = 0,
-                        SubscribedCount = 0,
-                        SelectedCheer = CheerCategoryEnum.None
-                    },
-                    PlatformIds = new List<mPlatformID>
+                        Id = accid,
+                        Username = account.username,
+                        DisplayName = account.displayName,
+                        XP = 0,
+                        Level = 1,
+                        created_at = account.createdAt,
+                        bannerImage = null,
+                        profileImage = account.profileImage,
+                        IsJunior = false,
+                        AvoidJuniors = true,
+                        PlayerReputation = new mPlayerReputation
+                        {
+                            Noteriety = 0,
+                            CheerCredit = 20,
+                            CheerGeneral = 1,
+                            CheerHelpful = 1,
+                            CheerGreatHost = 1,
+                            CheerSportsman = 1,
+                            CheerCreative = 1,
+                            SubscriberCount = 0,
+                            SubscribedCount = 0,
+                            SelectedCheer = CheerCategoryEnum.None
+                        },
+                        PlatformIds = new List<mPlatformID>
                     {
                          new mPlatformID
                          {
@@ -91,37 +102,38 @@ namespace Campus_live_rewrite.api.dbs
                              PlatformId = platformId
                          }
                      }
-                },
-                player_Extra = new player_extra
-                {
-                    DormRoomID = 1,
-                    IpAddresses = new List<string>(),
-                    DiscordId = discord_id,
-                    Bio = "",
-                    avatar = "{\"FaceFeatures\": \"\",\"HairColor\": \"\",\"OutfitSelections\": \"\",\"SkinColor\": \"\"}",
-                    SavedOutfits = new List<avatar_data_saved>(),
-                    //ModerationBlockDetails = new Moderation_Detail.ModerationBlockDetails()
-                    CheeredRooms = new List<ulong>(),
-                    FavoritedRooms = new List<ulong>(),
-                    sub_count = 0,
-                    SubbedTo = new List<ulong>(),
-                    IsRecentRoomHistoryVisible = true,
-                    Influencer = new Influencer
-                    {
-                        creatorCode = "",
-                        isInfluencer = false,
                     },
-                    CustomAvatarItems = new Campus_live_rewrite.api.server.Classes.db_class.CustomAvatarItems(),
-                },
-                dev_Flag = DevFlag.none
-            });
-            //Settings.SaveSettings_db(Settings.CreateDefaultSettings(), accid);
-            Console.WriteLine($"[CreateAccount] Row inserted. accid={accid} platform={platform} discord_id={discord_id} display='{name}' img='{account.profileImage}'");
-            HeartbeatDB.CreatePlayerHeartbeat(accid, out _, platform, DeviceClasses.Unknown);
-            Console.WriteLine($"[CreateAccount] Heartbeat created for accid={accid}");
-            CreateDormForPlayerId(accid);
-            Console.WriteLine($"[CreateAccount] Dorm created for accid={accid}. === DONE ===");
-            return true;
+                    player_Extra = new player_extra
+                    {
+                        DormRoomID = 1,
+                        IpAddresses = new List<string>(),
+                        DiscordId = discord_id,
+                        Bio = "",
+                        avatar = "{\"FaceFeatures\": \"\",\"HairColor\": \"\",\"OutfitSelections\": \"\",\"SkinColor\": \"\"}",
+                        SavedOutfits = new List<avatar_data_saved>(),
+                        //ModerationBlockDetails = new Moderation_Detail.ModerationBlockDetails()
+                        CheeredRooms = new List<ulong>(),
+                        FavoritedRooms = new List<ulong>(),
+                        sub_count = 0,
+                        SubbedTo = new List<ulong>(),
+                        IsRecentRoomHistoryVisible = true,
+                        Influencer = new Influencer
+                        {
+                            creatorCode = "",
+                            isInfluencer = false,
+                        },
+                        CustomAvatarItems = new Campus_live_rewrite.api.server.Classes.db_class.CustomAvatarItems(),
+                    },
+                    dev_Flag = DevFlag.none
+                });
+                //Settings.SaveSettings_db(Settings.CreateDefaultSettings(), accid);
+                Console.WriteLine($"[CreateAccount] Row inserted. accid={accid} platform={platform} discord_id={discord_id} display='{name}' img='{account.profileImage}'");
+                HeartbeatDB.CreatePlayerHeartbeat(accid, out _, platform, DeviceClasses.Unknown);
+                Console.WriteLine($"[CreateAccount] Heartbeat created for accid={accid}");
+                CreateDormForPlayerId(accid);
+                Console.WriteLine($"[CreateAccount] Dorm created for accid={accid}. === DONE ===");
+                return true;
+            }
         }
 
         public static bool ImportPlayers(string importPath)

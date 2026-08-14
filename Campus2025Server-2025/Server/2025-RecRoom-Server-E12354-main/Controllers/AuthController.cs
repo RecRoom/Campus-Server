@@ -151,7 +151,7 @@ namespace Campus_live_rewrite.Controllers
                 {
                     return new ContentResult()
                     {
-                        Content = "If you see this, you're a stupid skid and you should 1. stop using http debugger 2. go outside for once 3. if you are from eq then stop. eq allows proxys but we dont",
+                        Content = "buddy yo buddy yoOO! buddy stop larpin buddy learn what this does YOO! yoo buddy!!!!!!",
                         ContentType = "What a fucking loser ",
                         StatusCode = 200
                     };
