@@ -1,2 +1,0 @@
-^D:\PUCK\CAMPUSPATCH2025\2025PATCH\SRC\UTILS\DEPS\SPOOFCALL\RETSPOOF.ASM
-ml64.exe /c /Fo"2025Patch\x64\Release\\ReturnSpoof.obj" "D:\Puck\CampusPatch2025\2025Patch\\src\Utils\deps\spoofcall\RetSpoof.asm"

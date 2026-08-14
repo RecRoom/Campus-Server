@@ -1,2 +1,0 @@
-﻿main.obj : error LNK2019: unresolved external symbol _spoofer_stub referenced in function "__int64 (__cdecl*__cdecl spoof_call<__int64 (__cdecl*)(void),struct HINSTANCE__ *,char const *>(void const *,__int64 (__cdecl*(__cdecl*)(struct HINSTANCE__ *,char const *))(void),struct HINSTANCE__ *,char const *))(void)" (??$spoof_call@P6A_JXZPEAUHINSTANCE__@@PEBD@@YAP6A_JXZPEBXP6AP6A_JXZPEAUHINSTANCE__@@PEBD@Z12@Z)
-D:\Puck\CampusPatch2025\x64\Debug\2025Patch.dll : fatal error LNK1120: 1 unresolved externals
