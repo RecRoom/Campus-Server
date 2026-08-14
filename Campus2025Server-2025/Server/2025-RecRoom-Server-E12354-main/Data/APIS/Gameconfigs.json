@@ -4790,7 +4790,8 @@
     {
         "Key": "RoomieAI.Credits.RecNetUrl",
         "Value": "www.rec.net/roomie",
-        "ActiveExperiments": "roomie_2025q2_credits_weblinking",
+        "ActiveExperiments": "roomie_2025q2_credits_
+          linking",
         "StartTime": null,
         "EndTime": null
     },

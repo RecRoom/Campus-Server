@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B6Aw6hTU/ZQ=",
+  "dgSpecHash": "LBYf/lOHULc=",
   "success": true,
-  "projectFilePath": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj",
+  "projectFilePath": "C:\\Users\\Kyle new\\OneDrive\\Documents\\GitHub\\Campus2\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kyle new\\.nuget\\packages\\discord.net\\3.18.0\\discord.net.3.18.0.nupkg.sha512",
     "C:\\Users\\Kyle new\\.nuget\\packages\\discord.net.commands\\3.18.0\\discord.net.commands.3.18.0.nupkg.sha512",
@@ -29,12 +29,10 @@
     "C:\\Users\\Kyle new\\.nuget\\packages\\system.linq.async\\6.0.1\\system.linq.async.6.0.1.nupkg.sha512",
     "C:\\Users\\Kyle new\\.nuget\\packages\\system.reactive\\6.0.1\\system.reactive.6.0.1.nupkg.sha512",
     "C:\\Users\\Kyle new\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
-    "C:\\Users\\Kyle new\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.29\\microsoft.netcore.app.ref.8.0.29.nupkg.sha512",
-    "C:\\Users\\Kyle new\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\8.0.29\\microsoft.netcore.app.runtime.linux-x64.8.0.29.nupkg.sha512",
     "C:\\Users\\Kyle new\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.29\\microsoft.windowsdesktop.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\Kyle new\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.29\\microsoft.netcore.app.ref.8.0.29.nupkg.sha512",
     "C:\\Users\\Kyle new\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.29\\microsoft.aspnetcore.app.ref.8.0.29.nupkg.sha512",
-    "C:\\Users\\Kyle new\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\8.0.29\\microsoft.aspnetcore.app.runtime.linux-x64.8.0.29.nupkg.sha512",
-    "C:\\Users\\Kyle new\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.29\\microsoft.netcore.app.host.linux-x64.8.0.29.nupkg.sha512"
+    "C:\\Users\\Kyle new\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.29\\microsoft.netcore.app.host.win-x64.8.0.29.nupkg.sha512"
   ],
   "logs": []
 }

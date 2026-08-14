@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\Puck\\Campus2025Server-2025\\Server\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\server\\configcampus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\server\\configcampus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\apis\\gameconfigs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\data\\apis\\gameconfigs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\apis\\items\\avatar_items.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\data\\apis\\items\\avatar_items.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\apis\\items\\consumables.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\data\\apis\\items\\consumables.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\apis\\customitems.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -93,10 +105,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\dbs\\imagemetadatadb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\dbs\\imagemetadatadb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\apis\\items\\avatar_items.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\data\\apis\\items\\avatar_items.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\eee.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -193,10 +201,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\discordbot\\botcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\discordbot\\botcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\server\\configcampus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\server\\configcampus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\server\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -502,11 +506,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
+              "Title": "Consumables.json",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\items\\Consumables.json",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\items\\Consumables.json",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\items\\Consumables.json",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\items\\Consumables.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-14T17:14:46.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "IPBlockMiddleware.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Middleware\\IPBlockMiddleware.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Middleware\\IPBlockMiddleware.cs",
@@ -519,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Log.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Middleware\\Log.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Middleware\\Log.cs",
@@ -532,46 +549,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ChatCommands.cs",
-              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\ChatCommands.cs",
-              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\ChatCommands.cs",
-              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\ChatCommands.cs",
-              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\ChatCommands.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAowAkAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-12T19:53:45.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Gameconfigs.json",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\Gameconfigs.json",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\Gameconfigs.json",
               "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\Gameconfigs.json",
               "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\Gameconfigs.json",
-              "ViewState": "AgIAAEcNAAAAAAAAAAAowGkNAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAoEAAAAAAAAAAAowCQEAADCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-08-12T21:01:58.024Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\AdminController.cs",
-              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAH8AAAAAAAAAAAAcwJgAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-12T19:50:10.672Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "RoomController.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\RoomController.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\RoomController.cs",
@@ -584,7 +575,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "exported_rooms copy.json",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\exported_rooms copy.json",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\exported_rooms copy.json",
@@ -597,7 +588,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "IPAllowMiddleware.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Middleware\\IPAllowMiddleware.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Middleware\\IPAllowMiddleware.cs",
@@ -610,7 +601,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "HomeV4.html",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Web\\Admin\\Home\\HomeV4.html",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Web\\Admin\\Home\\HomeV4.html",
@@ -623,7 +614,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "HomeV4 - Copy.html",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Web\\Admin\\Home\\HomeV4 - Copy.html",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Web\\Admin\\Home\\HomeV4 - Copy.html",
@@ -636,7 +627,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Home.html",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Web\\Campus_Net\\Home.html",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Web\\Campus_Net\\Home.html",
@@ -649,7 +640,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Program.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Program.cs",
@@ -662,7 +653,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "avatar_items.json",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\items\\avatar_items.json",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\items\\avatar_items.json",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\items\\avatar_items.json",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\items\\avatar_items.json",
+              "ViewState": "AgIAALklAAAAAAAAAAAowMQlAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-12T22:38:10.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConfigCampus.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\ConfigCampus.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\ConfigCampus.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\ConfigCampus.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\server\\ConfigCampus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T21:39:52.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChatCommands.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\ChatCommands.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\ChatCommands.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\ChatCommands.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\ChatCommands.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:53:45.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAcwJgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:50:10.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "customitems.json",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\customitems.json",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\customitems.json",
@@ -675,7 +718,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\AccountController.cs",
@@ -688,7 +731,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "CommandSetup.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Commands\\CommandSetup.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Commands\\CommandSetup.cs",
@@ -701,7 +744,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "WebsocketEvents.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\WebsocketEvents.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\WebsocketEvents.cs",
@@ -714,7 +757,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "RoomDB.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\dbs\\RoomDB.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\dbs\\RoomDB.cs",
@@ -727,7 +770,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "LinkDB.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\dbs\\LinkDB.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\dbs\\LinkDB.cs",
@@ -740,7 +783,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "LeaderboardDB.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\dbs\\LeaderboardDB.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\dbs\\LeaderboardDB.cs",
@@ -753,7 +796,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "exported_rooms.json",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\exported_rooms.json",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\exported_rooms.json",
@@ -766,7 +809,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Ips.json",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\Ips.json",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\Ips.json",
@@ -779,7 +822,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "yay.json",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\yay.json",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\yay.json",
@@ -792,7 +835,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "ImageMetadataDB.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\dbs\\ImageMetadataDB.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\dbs\\ImageMetadataDB.cs",
@@ -805,20 +848,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "avatar_items.json",
-              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\items\\avatar_items.json",
-              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\items\\avatar_items.json",
-              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\items\\avatar_items.json",
-              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\items\\avatar_items.json",
-              "ViewState": "AgIAAMUlAAAAAAAAAAAowBQlAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-08-12T22:38:10.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "eee.json",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\eee.json",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\eee.json",
@@ -831,7 +861,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "AllUnlockableConsumables.json",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\items\\AllUnlockableConsumables.json",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\items\\AllUnlockableConsumables.json",
@@ -844,7 +874,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "IamAnnoucements.json",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\IamAnnoucements.json",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\IamAnnoucements.json",
@@ -857,7 +887,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "APILog.txt",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APILog.txt",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APILog.txt",
@@ -870,7 +900,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "exported_players.json",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\exported_players.json",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\exported_players.json",
@@ -883,7 +913,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "LoadingScreenTipData copy.json",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\LoadingScreenTipData copy.json",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\LoadingScreenTipData copy.json",
@@ -896,7 +926,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "StoreClothing.json",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\WatchPages\\StoreClothing.json",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\WatchPages\\StoreClothing.json",
@@ -909,7 +939,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "PlayHighlight.json",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\WatchPages\\PlayHighlight.json",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\WatchPages\\PlayHighlight.json",
@@ -922,7 +952,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "AuthLauncherController.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\AuthLauncherController.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\AuthLauncherController.cs",
@@ -935,7 +965,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "MatchmakingController.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\MatchmakingController.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\MatchmakingController.cs",
@@ -947,7 +977,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "LinkController.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\LinkController.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\LinkController.cs",
@@ -959,7 +989,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "ImageController.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\ImageController.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\ImageController.cs",
@@ -971,7 +1001,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "CDNController.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\CDNController.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\CDNController.cs",
@@ -983,7 +1013,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "CampusNetController.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\CampusNetController.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\CampusNetController.cs",
@@ -995,7 +1025,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "CampusDllController.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\CampusDllController.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\CampusDllController.cs",
@@ -1007,7 +1037,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "OnlinePlayers.html",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Web\\Campus_Net\\OnlinePlayers.html",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Web\\Campus_Net\\OnlinePlayers.html",
@@ -1019,7 +1049,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "PlayMenuTabs.json",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\WatchPages\\PlayMenuTabs.json",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\WatchPages\\PlayMenuTabs.json",
@@ -1032,7 +1062,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "PhotonAuthController.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\PhotonAuthController.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\PhotonAuthController.cs",
@@ -1044,7 +1074,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "DiscordBot.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\DiscordBot\\DiscordBot.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\DiscordBot\\DiscordBot.cs",
@@ -1056,19 +1086,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "ConfigCampus.cs",
-              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\ConfigCampus.cs",
-              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\ConfigCampus.cs",
-              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\ConfigCampus.cs",
-              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\server\\ConfigCampus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-12T21:39:52.706Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "Utils.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Utils.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Utils.cs",
@@ -1080,7 +1098,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "Hile.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\Hile.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\Hile.cs",
@@ -1092,7 +1110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "APIController.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\APIController.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\APIController.cs",
@@ -1104,7 +1122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "communityboard.json",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\communityboard.json",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\communityboard.json",
@@ -1116,7 +1134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 54,
               "Title": "LoadingScreenTipData.json",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\LoadingScreenTipData.json",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\LoadingScreenTipData.json",
@@ -1128,7 +1146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 66,
               "Title": "Index.html",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Web\\Index.html",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Web\\Index.html",
@@ -1140,7 +1158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 67,
               "Title": "Rooms.db",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\DBs\\Rooms.db",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\DBs\\Rooms.db",
@@ -1151,7 +1169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 49,
               "Title": "BotCommands.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\DiscordBot\\BotCommands.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\DiscordBot\\BotCommands.cs",
@@ -1163,7 +1181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 68,
               "Title": "Equipments.json",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\items\\Equipments.json",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\items\\Equipments.json",
@@ -1175,7 +1193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 70,
               "Title": "AllCatalog.json",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\AllCatalog.json",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\AllCatalog.json",
@@ -1187,7 +1205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "NotiConfigCategories.json",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\NotiConfigCategories.json",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\NotiConfigCategories.json",
@@ -1199,7 +1217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "0088d207-017b-45a1-9ee6-1375ed29b0d3_assets.json",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\BakedBulk\\0088d207-017b-45a1-9ee6-1375ed29b0d3_assets.json",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\BakedBulk\\0088d207-017b-45a1-9ee6-1375ed29b0d3_assets.json",
@@ -1211,7 +1229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "new_1.json",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\AlgorithmicLists\\new_1.json",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\AlgorithmicLists\\new_1.json",
@@ -1223,7 +1241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 71,
               "Title": "StoreConsumables.json",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\WatchPages\\StoreConsumables.json",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\WatchPages\\StoreConsumables.json",
@@ -1235,7 +1253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 72,
               "Title": "CommunityBoard.json",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\WatchPages\\CommunityBoard.json",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\WatchPages\\CommunityBoard.json",
@@ -1247,7 +1265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 69,
               "Title": "Icebreakers.json",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\Charades\\Icebreakers.json",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\Charades\\Icebreakers.json",
@@ -1259,7 +1277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 74,
               "Title": "Chat.db",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\DBs\\Chat.db",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\DBs\\Chat.db",
@@ -1270,7 +1288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 55,
               "Title": "AvatarEffectConfig_v1.json",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\CDN\\Configs\\Prod\\AvatarEffectConfig_v1.json",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\CDN\\Configs\\Prod\\AvatarEffectConfig_v1.json",
@@ -1282,7 +1300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 75,
               "Title": "SkuConfig_v1.json",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\CDN\\Configs\\SkuConfig_v1.json",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\CDN\\Configs\\SkuConfig_v1.json",
@@ -1294,7 +1312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 76,
               "Title": "RRPlusConfig_v3.json",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\CDN\\Configs\\RRPlusConfig_v3.json",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\CDN\\Configs\\RRPlusConfig_v3.json",
@@ -1306,7 +1324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 77,
               "Title": "1b057e6e-979d-4f30-8856-a386f77c90da",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\CDN\\Configs\\1b057e6e-979d-4f30-8856-a386f77c90da",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\CDN\\Configs\\1b057e6e-979d-4f30-8856-a386f77c90da",
@@ -1317,7 +1335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 73,
               "Title": "HeartbeatDB.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\dbs\\HeartbeatDB.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\dbs\\HeartbeatDB.cs",
@@ -1329,7 +1347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 82,
               "Title": "ClubDB.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\dbs\\ClubDB.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\dbs\\ClubDB.cs",
@@ -1341,7 +1359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 83,
               "Title": "DataController.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\DataController.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\DataController.cs",
@@ -1353,7 +1371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 80,
               "Title": "ClientSecurity.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\ClientSecurity.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\ClientSecurity.cs",
@@ -1365,7 +1383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 87,
               "Title": "FriendsDB.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\dbs\\FriendsDB.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\dbs\\FriendsDB.cs",
@@ -1377,7 +1395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 81,
               "Title": "ChatDB.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\dbs\\ChatDB.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\dbs\\ChatDB.cs",
@@ -1389,7 +1407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 79,
               "Title": "Webhook.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Webhook.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Webhook.cs",
@@ -1401,7 +1419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 86,
               "Title": "badwords.txt",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\badwords.txt",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\badwords.txt",
@@ -1413,7 +1431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 84,
               "Title": "eeeee.txt",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\eeeee.txt",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\eeeee.txt",
@@ -1425,7 +1443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 78,
               "Title": "Sanitize.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\Sanitize.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\Sanitize.cs",
@@ -1437,7 +1455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 91,
               "Title": "ChatController.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\ChatController.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\ChatController.cs",
@@ -1449,7 +1467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 85,
               "Title": "EventDB.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\dbs\\EventDB.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\dbs\\EventDB.cs",
@@ -1461,7 +1479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 93,
               "Title": "AIController.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\AIController.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\AIController.cs",
@@ -1473,7 +1491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 94,
               "Title": "AccountsController.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\AccountsController.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\AccountsController.cs",
@@ -1485,7 +1503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 90,
               "Title": "ClubsController.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\ClubsController.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\ClubsController.cs",
@@ -1497,7 +1515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 89,
               "Title": "NotificationController.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\NotificationController.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\NotificationController.cs",
@@ -1509,7 +1527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 88,
               "Title": "DiscordController.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\DiscordController.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\DiscordController.cs",
@@ -1521,7 +1539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 56,
               "Title": "EconController.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\EconController.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\EconController.cs",
@@ -1533,7 +1551,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "CommandConsole.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Commands\\CommandConsole.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Commands\\CommandConsole.cs",
@@ -1545,7 +1563,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 95,
               "Title": "PlayerDB.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\dbs\\PlayerDB.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\dbs\\PlayerDB.cs",
@@ -1557,7 +1575,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 92,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\AuthController.cs",
@@ -1569,7 +1587,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 96,
               "Title": "LoginV4.html",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Web\\Admin\\LoginV4.html",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Web\\Admin\\LoginV4.html",
@@ -1581,7 +1599,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 98,
               "Title": "linkplayer.html",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Web\\Discord\\linkplayer.html",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Web\\Discord\\linkplayer.html",
@@ -1593,7 +1611,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 97,
               "Title": "Login.html",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Web\\Campus_Net\\Login.html",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Web\\Campus_Net\\Login.html",
@@ -1605,7 +1623,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 98,
+              "DocumentIndex": 99,
               "Title": "CommerceController.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\CommerceController.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\CommerceController.cs",
@@ -1617,7 +1635,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 99,
+              "DocumentIndex": 100,
               "Title": "BotController.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\BotController.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\BotController.cs",
@@ -1629,7 +1647,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 100,
+              "DocumentIndex": 101,
               "Title": "Notifications.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Notifications.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Notifications.cs",
@@ -1641,7 +1659,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 101,
+              "DocumentIndex": 102,
               "Title": "ServerController.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\ServerController.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\ServerController.cs",
@@ -1653,7 +1671,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 102,
+              "DocumentIndex": 103,
               "Title": "Sessions.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Sessions.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Sessions.cs",
@@ -1665,7 +1683,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 103,
+              "DocumentIndex": 104,
               "Title": "Steam.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Steam.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Steam.cs",
@@ -1677,7 +1695,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 104,
+              "DocumentIndex": 105,
               "Title": "WebController.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\WebController.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\WebController.cs",
@@ -1689,7 +1707,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 105,
+              "DocumentIndex": 106,
               "Title": "VersionCheck.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\VersionCheck.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\VersionCheck.cs",
@@ -1701,7 +1719,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 106,
+              "DocumentIndex": 107,
               "Title": "SuccessResponse.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\SuccessResponse.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\SuccessResponse.cs",
@@ -1713,7 +1731,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 107,
+              "DocumentIndex": 108,
               "Title": "Sub.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\Sub.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\Sub.cs",
@@ -1725,7 +1743,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 108,
+              "DocumentIndex": 109,
               "Title": "SteamAuthResponse.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\SteamAuthResponse.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\SteamAuthResponse.cs",
@@ -1737,7 +1755,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 109,
+              "DocumentIndex": 110,
               "Title": "SettingsDBClasses.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\SettingsDBClasses.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\SettingsDBClasses.cs",
@@ -1749,7 +1767,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 110,
+              "DocumentIndex": 111,
               "Title": "SettingsDB.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\dbs\\SettingsDB.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\dbs\\SettingsDB.cs",
@@ -1761,7 +1779,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 58,
               "Title": "RRPlus.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\RRPlus.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\RRPlus.cs",
@@ -1773,7 +1791,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 111,
+              "DocumentIndex": 112,
               "Title": "RoomDBClasses.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\RoomDBClasses.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\RoomDBClasses.cs",
@@ -1785,7 +1803,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 112,
+              "DocumentIndex": 113,
               "Title": "Reputation.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\Reputation.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\Reputation.cs",
@@ -1797,7 +1815,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 113,
+              "DocumentIndex": 114,
               "Title": "ProgressionBulk.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\ProgressionBulk.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\ProgressionBulk.cs",
@@ -1809,7 +1827,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 114,
+              "DocumentIndex": 115,
               "Title": "PlayerDBClasses.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\PlayerDBClasses.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\PlayerDBClasses.cs",
@@ -1821,7 +1839,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 115,
+              "DocumentIndex": 116,
               "Title": "NS.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\NS.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\NS.cs",
@@ -1833,7 +1851,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 116,
+              "DocumentIndex": 117,
               "Title": "MyObjectives.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\MyObjectives.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\MyObjectives.cs",
@@ -1845,7 +1863,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 117,
+              "DocumentIndex": 118,
               "Title": "ModerationBlockDetails.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\ModerationBlockDetails.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\ModerationBlockDetails.cs",
@@ -1857,7 +1875,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 118,
+              "DocumentIndex": 119,
               "Title": "LockedItems.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\LockedItems.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\LockedItems.cs",
@@ -1869,7 +1887,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 119,
+              "DocumentIndex": 120,
               "Title": "LeaderboardDBClasses.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\LeaderboardDBClasses.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\LeaderboardDBClasses.cs",
@@ -1881,7 +1899,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 120,
+              "DocumentIndex": 121,
               "Title": "Images.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Images.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Images.cs",
@@ -1893,7 +1911,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 121,
+              "DocumentIndex": 122,
               "Title": "FriendDBClasses.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\FriendDBClasses.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\FriendDBClasses.cs",
@@ -1905,7 +1923,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 122,
+              "DocumentIndex": 123,
               "Title": "EventDBClasses.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\EventDBClasses.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\EventDBClasses.cs",
@@ -1917,7 +1935,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 57,
               "Title": "Emojis.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Emojis.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Emojis.cs",
@@ -1929,7 +1947,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 59,
               "Title": "CustomAvatarItems.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\CustomAvatarItems.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\CustomAvatarItems.cs",
@@ -1941,7 +1959,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 60,
               "Title": "Config.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\Config.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\Config.cs",
@@ -1953,7 +1971,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 61,
               "Title": "ClubDBClasses.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\ClubDBClasses.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\ClubDBClasses.cs",
@@ -1965,7 +1983,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 62,
               "Title": "ChatDBClasses.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\ChatDBClasses.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\ChatDBClasses.cs",
@@ -1977,7 +1995,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 63,
               "Title": "AuthHelper.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\AuthHelper.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\AuthHelper.cs",
@@ -1989,7 +2007,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 64,
               "Title": "Amplitude2023.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\Amplitude2023.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\Amplitude2023.cs",
@@ -2001,7 +2019,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 65,
               "Title": "ActionLink.cs",
               "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\ActionLink.cs",
               "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\ActionLink.cs",

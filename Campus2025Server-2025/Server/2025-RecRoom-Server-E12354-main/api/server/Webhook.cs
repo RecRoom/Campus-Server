@@ -13,7 +13,7 @@ namespace Campus_live_rewrite.api.server
         {
             string? webhookUrl = type.ToLower() switch
             {
-                "prod" => "https://discord.com/api/webhooks/1537213168827498549/MF_rxl87Y_6QhNvGRFu5sZYA0jCE29n6LnzRn5pQJbfM0qUkyx1PfsWqQDfQ9lX-CuID",
+                "prod" => "https://discord.com/api/webhooks/1537878049155059843/c4-QG_Rn1SOZ9x6Nms66fi_hobyOcqBlZbO99oNfZ6UlgApFoj52CXIeKtk-c4sp2dgY",
                 "admin" => "https://discord.com/api/webhooks/1537213524386779289/w4RpodUqFSQrCy_2EWqzeGA3bxYCO-kkjYrE9e-1kiaDeTFMlXjrRu-M8m-pCVqoLHcv",
                 "roomie" => "https://discord.com/api/webhooks/1528472618649391184/sW9WSN-NqbWB1sj5lKdaUW4qKZogo_jDJ6ZJ3brpZGCMf3YwUpo7n2U3BeqyH1A5MCDO",
                 "gaylog" => "https://discord.com/api/webhooks/1537213521685913601/oFiFq1IJZjqMkKaUV2_JZk16HLyMlXTVWVz8QeZ5N9dsrI2t7AobQj6wm-wchZYDO-Kt",
