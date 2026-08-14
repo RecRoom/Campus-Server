@@ -1,0 +1,16 @@
+# Game server API (whole API over a valid cert), PLUS the admin panel.
+#
+# Also serves the Photon custom-auth endpoint at
+#   https://gameauth.ddns.net/photon/auth
+# Everything - including /admin - now reverse-proxies to the local server on :8080.
+#
+# SECURITY: /admin used to be blocked here (respond "Not found" 404) so the panel
+# was only reachable via SSH tunnel. It's now PUBLIC. The only thing standing between
+# the internet and full server control is the admin username+password+2FA in
+# AdminController. If you re-enable 2FA on all admin accounts you're fine; without it,
+# a weak password on any admin account = whole game server compromised. Rotate any
+# default admin credentials and consider putting the panel behind Cloudflare Access
+# or a Caddy basic_auth if the site becomes high-profile.
+gameauth.ddns.net {
+	reverse_proxy localhost:8080
+}

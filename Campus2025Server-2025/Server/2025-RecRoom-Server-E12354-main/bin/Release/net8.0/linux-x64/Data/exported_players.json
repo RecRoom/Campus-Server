@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1,
+        "playerid": 1,
+        "platform": 0,
+        "platformId": 0,
+        "deviceId": [
+            null
+        ],
+        "authtoken": "zGamA7GzN6aOMCcpXBApYam9XJpiSAX3OvvTXHe9DU6vnBhFKayZwaoqemnkDxUyfhIVxsbLkFDPqkwDqUCJ1ZiOFtQjGKTq9NQSXKs5ioTz9LznXFkDMVZW8CqYzZExRSlBcRwAAsO5VC6wlrEnms2DB7H7MG7GqsEla5UryDPAfQNwWt7W1D161R8kqaDRhRPTMmjt",
+        "password": "Zc07udRXOwPQF98zQFUVT7GmvbmEeEylNLgHe9n2ffQ/zNhsHW1DqPnmSEnVJack",
+        "player": {
+            "Id": 1,
+            "Username": "Coach",
+            "DisplayName": "Coach",
+            "DisplayEmoji": null,
+            "Email": null,
+            "XP": 0,
+            "Level": 99,
+            "RegistrationStatus": 2,
+            "CanReceiveInvites": true,
+            "ProfileImageName": "DefaultImg.png",
+            "influencer_support": 0,
+            "pronounFlags": 0,
+            "identityFlags": 0,
+            "JuniorProfile": false,
+            "ForceJuniorImages": false,
+            "PendingJunior": false,
+            "HasBirthday": true,
+            "AvoidJuniors": true,
+            "PlayerReputation": {
+                "Noteriety": 0,
+                "CheerGeneral": 0,
+                "CheerHelpful": 0,
+                "CheerGreatHost": 0,
+                "CheerSportsman": 0,
+                "CheerCreative": 0,
+                "CheerCredit": 20,
+                "SubscriberCount": 0,
+                "SubscribedCount": 0,
+                "SelectedCheer": 0
+            },
+            "PlatformIds": [
+                {
+                    "Platform": 0,
+                    "PlatformId": 0
+                },
+                {
+                    "Platform": 0,
+                    "PlatformId": 76561199535310323
+                },
+                {
+                    "Platform": 0,
+                    "PlatformId": 76561199244473837
+                }
+            ],
+            "created_at": "1999-12-02T05:56:19.694-08:00",
+            "last_login_time": "2024-12-02T05:56:19.694-08:00",
+            "recent_rooms": [],
+            "tokens": 0,
+            "bannerImage": "DefaultImg.png",
+            "profileImage": "DefaultImg.png"
+        }
+]

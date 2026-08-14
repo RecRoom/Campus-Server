@@ -1,0 +1,2019 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Puck\\Campus2025Server-2025\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\apis\\gameconfigs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\data\\apis\\gameconfigs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\apis\\customitems.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\data\\apis\\customitems.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\web\\campus_net\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\web\\campus_net\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\web\\admin\\home\\homev4 - copy.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\web\\admin\\home\\homev4 - copy.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\web\\admin\\home\\homev4.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\web\\admin\\home\\homev4.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\middleware\\ipallowmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\middleware\\ipallowmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\middleware\\ipblockmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\middleware\\ipblockmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\middleware\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\middleware\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\yay.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\data\\yay.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\ips.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\data\\ips.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\exported_rooms.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\data\\exported_rooms.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\exported_rooms copy.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\data\\exported_rooms copy.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\chatcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\chatcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\commands\\commandsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\commands\\commandsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\websocketevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\websocketevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\dbs\\roomdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\dbs\\roomdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\dbs\\linkdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\dbs\\linkdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\dbs\\leaderboarddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\dbs\\leaderboarddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\dbs\\imagemetadatadb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\dbs\\imagemetadatadb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\apis\\items\\avatar_items.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\data\\apis\\items\\avatar_items.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\eee.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\data\\eee.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\apis\\items\\allunlockableconsumables.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\data\\apis\\items\\allunlockableconsumables.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\apis\\iamannoucements.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\data\\apis\\iamannoucements.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\apilog.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\data\\apilog.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\exported_players.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\data\\exported_players.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\apis\\loadingscreentipdata copy.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\data\\apis\\loadingscreentipdata copy.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\apis\\watchpages\\storeclothing.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\data\\apis\\watchpages\\storeclothing.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\apis\\watchpages\\playhighlight.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\data\\apis\\watchpages\\playhighlight.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\apis\\watchpages\\playmenutabs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\data\\apis\\watchpages\\playmenutabs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\controllers\\authlaunchercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\controllers\\authlaunchercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\controllers\\photonauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\controllers\\photonauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\discordbot\\discordbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\discordbot\\discordbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\controllers\\matchmakingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\controllers\\matchmakingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\controllers\\linkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\controllers\\linkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\controllers\\cdncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\controllers\\cdncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\controllers\\campusnetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\controllers\\campusnetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\controllers\\campusdllcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\controllers\\campusdllcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\web\\campus_net\\onlineplayers.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\web\\campus_net\\onlineplayers.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\apis\\bakedbulk\\0088d207-017b-45a1-9ee6-1375ed29b0d3_assets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\data\\apis\\bakedbulk\\0088d207-017b-45a1-9ee6-1375ed29b0d3_assets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\apis\\algorithmiclists\\new_1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\data\\apis\\algorithmiclists\\new_1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\commands\\commandconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\commands\\commandconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\apis\\noticonfigcategories.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\data\\apis\\noticonfigcategories.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\discordbot\\botcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\discordbot\\botcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\server\\configcampus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\server\\configcampus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\server\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\server\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\server\\classes\\hile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\server\\classes\\hile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\apis\\communityboard.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\data\\apis\\communityboard.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\apis\\loadingscreentipdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\data\\apis\\loadingscreentipdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\cdn\\configs\\prod\\avatareffectconfig_v1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\data\\cdn\\configs\\prod\\avatareffectconfig_v1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\controllers\\econcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\controllers\\econcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\server\\emojis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\server\\emojis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\server\\classes\\rrplus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\server\\classes\\rrplus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\server\\classes\\customavataritems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\server\\classes\\customavataritems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\server\\classes\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\server\\classes\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\server\\classes\\db_class\\clubdbclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\server\\classes\\db_class\\clubdbclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\server\\classes\\db_class\\chatdbclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\server\\classes\\db_class\\chatdbclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\server\\authhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\server\\authhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\server\\classes\\amplitude2023.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\server\\classes\\amplitude2023.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\server\\classes\\actionlink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\server\\classes\\actionlink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\web\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\web\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\dbs\\rooms.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\data\\dbs\\rooms.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\apis\\items\\equipments.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\data\\apis\\items\\equipments.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\apis\\charades\\icebreakers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\data\\apis\\charades\\icebreakers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\apis\\allcatalog.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\data\\apis\\allcatalog.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\apis\\watchpages\\storeconsumables.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\data\\apis\\watchpages\\storeconsumables.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\apis\\watchpages\\communityboard.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\data\\apis\\watchpages\\communityboard.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\dbs\\heartbeatdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\dbs\\heartbeatdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\dbs\\chat.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\data\\dbs\\chat.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\cdn\\configs\\skuconfig_v1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\data\\cdn\\configs\\skuconfig_v1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\cdn\\configs\\rrplusconfig_v3.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\data\\cdn\\configs\\rrplusconfig_v3.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\cdn\\configs\\1b057e6e-979d-4f30-8856-a386f77c90da||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\data\\cdn\\configs\\1b057e6e-979d-4f30-8856-a386f77c90da||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\server\\classes\\sanitize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\server\\classes\\sanitize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\server\\webhook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\server\\webhook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\server\\clientsecurity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\server\\clientsecurity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\dbs\\chatdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\dbs\\chatdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\dbs\\clubdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\dbs\\clubdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\eeeee.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\data\\eeeee.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\dbs\\eventdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\dbs\\eventdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\data\\badwords.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\data\\badwords.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\dbs\\friendsdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\dbs\\friendsdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\controllers\\discordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\controllers\\discordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\controllers\\clubscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\controllers\\clubscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\dbs\\playerdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\dbs\\playerdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\web\\admin\\loginv4.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\web\\admin\\loginv4.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\web\\campus_net\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\web\\campus_net\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\web\\discord\\linkplayer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\web\\discord\\linkplayer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\controllers\\commercecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\controllers\\commercecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\controllers\\botcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\controllers\\botcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\server\\notifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\server\\notifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\controllers\\servercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\controllers\\servercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\server\\sessions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\server\\sessions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\server\\steam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\server\\steam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\controllers\\webcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\controllers\\webcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\server\\classes\\versioncheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\server\\classes\\versioncheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\server\\classes\\successresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\server\\classes\\successresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\server\\classes\\sub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\server\\classes\\sub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\server\\classes\\steamauthresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\server\\classes\\steamauthresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\server\\classes\\db_class\\settingsdbclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\server\\classes\\db_class\\settingsdbclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\dbs\\settingsdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\dbs\\settingsdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\server\\classes\\db_class\\roomdbclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\server\\classes\\db_class\\roomdbclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\server\\classes\\reputation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\server\\classes\\reputation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\server\\classes\\progressionbulk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\server\\classes\\progressionbulk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\server\\classes\\db_class\\playerdbclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\server\\classes\\db_class\\playerdbclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\server\\classes\\ns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\server\\classes\\ns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\server\\classes\\myobjectives.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\server\\classes\\myobjectives.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\server\\moderationblockdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\server\\moderationblockdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\server\\classes\\lockeditems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\server\\classes\\lockeditems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\server\\classes\\db_class\\leaderboarddbclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\server\\classes\\db_class\\leaderboarddbclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\server\\images.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\server\\images.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\server\\classes\\db_class\\frienddbclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\server\\classes\\db_class\\frienddbclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|d:\\puck\\campus2025server-2025\\server\\2025-recroom-server-e12354-main\\api\\server\\classes\\db_class\\eventdbclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A7DBFD-7899-47BE-8FDF-FEC9A639C2D8}|2025-RecRoom-Server-E12354-main\\Rec_Rewild_Test_Server.csproj|solutionrelative:2025-recroom-server-e12354-main\\api\\server\\classes\\db_class\\eventdbclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPBlockMiddleware.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Middleware\\IPBlockMiddleware.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Middleware\\IPBlockMiddleware.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Middleware\\IPBlockMiddleware.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Middleware\\IPBlockMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T16:13:41.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Log.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Middleware\\Log.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Middleware\\Log.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Middleware\\Log.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Middleware\\Log.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T16:13:41.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChatCommands.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\ChatCommands.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\ChatCommands.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\ChatCommands.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\ChatCommands.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:53:45.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gameconfigs.json",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\Gameconfigs.json",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\Gameconfigs.json",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\Gameconfigs.json",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\Gameconfigs.json",
+              "ViewState": "AgIAAEcNAAAAAAAAAAAowGkNAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-12T21:01:58.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAcwJgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:50:10.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\RoomController.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Controllers\\RoomController.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAIwOwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:55:13.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "exported_rooms copy.json",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\exported_rooms copy.json",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\exported_rooms copy.json",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\exported_rooms copy.json",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Data\\exported_rooms copy.json",
+              "ViewState": "AgIAABsiAAAAAAAAAAAWwC0iAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-12T21:01:50.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPAllowMiddleware.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Middleware\\IPAllowMiddleware.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Middleware\\IPAllowMiddleware.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Middleware\\IPAllowMiddleware.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Middleware\\IPAllowMiddleware.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:54:41.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeV4.html",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Web\\Admin\\Home\\HomeV4.html",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Web\\Admin\\Home\\HomeV4.html",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Web\\Admin\\Home\\HomeV4.html",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Web\\Admin\\Home\\HomeV4.html",
+              "ViewState": "AgIAAKsGAAAAAAAAAAAAAKsGAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-08-12T20:22:45.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeV4 - Copy.html",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Web\\Admin\\Home\\HomeV4 - Copy.html",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Web\\Admin\\Home\\HomeV4 - Copy.html",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Web\\Admin\\Home\\HomeV4 - Copy.html",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Web\\Admin\\Home\\HomeV4 - Copy.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-08-12T21:03:05.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.html",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Web\\Campus_Net\\Home.html",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Web\\Campus_Net\\Home.html",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Web\\Campus_Net\\Home.html",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Web\\Campus_Net\\Home.html",
+              "ViewState": "AgIAAEkBAAAAAAAAAAAowHoBAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-08-12T20:21:45.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Program.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Program.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Program.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Program.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAgwDgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:55:02.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "customitems.json",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\customitems.json",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\customitems.json",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\customitems.json",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\customitems.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-12T22:36:43.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T15:47:51.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CommandSetup.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Commands\\CommandSetup.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Commands\\CommandSetup.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Commands\\CommandSetup.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Commands\\CommandSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T20:21:35.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WebsocketEvents.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\WebsocketEvents.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\WebsocketEvents.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\WebsocketEvents.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\WebsocketEvents.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAADwv8wAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:58:27.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RoomDB.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\dbs\\RoomDB.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\dbs\\RoomDB.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\dbs\\RoomDB.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\dbs\\RoomDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:55:18.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LinkDB.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\dbs\\LinkDB.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\dbs\\LinkDB.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\dbs\\LinkDB.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\dbs\\LinkDB.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:54:46.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LeaderboardDB.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\dbs\\LeaderboardDB.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\dbs\\LeaderboardDB.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\dbs\\LeaderboardDB.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\dbs\\LeaderboardDB.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwBoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:54:41.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "exported_rooms.json",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\exported_rooms.json",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\exported_rooms.json",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\exported_rooms.json",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Data\\exported_rooms.json",
+              "ViewState": "AgIAAMkWAAAAAAAAAAAAAOcWAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-12T21:02:27.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ips.json",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\Ips.json",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\Ips.json",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\Ips.json",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Data\\Ips.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-12T21:02:49.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "yay.json",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\yay.json",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\yay.json",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\yay.json",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Data\\yay.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-12T21:02:51.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ImageMetadataDB.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\dbs\\ImageMetadataDB.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\dbs\\ImageMetadataDB.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\dbs\\ImageMetadataDB.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\dbs\\ImageMetadataDB.cs",
+              "ViewState": "AgIAAGoBAAAAAAAAAAAowIQBAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T20:53:04.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "avatar_items.json",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\items\\avatar_items.json",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\items\\avatar_items.json",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\items\\avatar_items.json",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\items\\avatar_items.json",
+              "ViewState": "AgIAAMUlAAAAAAAAAAAowBQlAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-12T22:38:10.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "eee.json",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\eee.json",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\eee.json",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\eee.json",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Data\\eee.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAACkBwAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-12T21:26:24.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AllUnlockableConsumables.json",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\items\\AllUnlockableConsumables.json",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\items\\AllUnlockableConsumables.json",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\items\\AllUnlockableConsumables.json",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\items\\AllUnlockableConsumables.json",
+              "ViewState": "AgIAADIAAAAAAAAAAAAowEYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-12T22:38:08.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IamAnnoucements.json",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\IamAnnoucements.json",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\IamAnnoucements.json",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\IamAnnoucements.json",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\IamAnnoucements.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowC8AAACRAgAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-12T22:37:08.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "APILog.txt",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APILog.txt",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APILog.txt",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APILog.txt",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Data\\APILog.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-08-12T21:26:39.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "exported_players.json",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\exported_players.json",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\exported_players.json",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\exported_players.json",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Data\\exported_players.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-12T21:00:39.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoadingScreenTipData copy.json",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\LoadingScreenTipData copy.json",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\LoadingScreenTipData copy.json",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\LoadingScreenTipData copy.json",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\LoadingScreenTipData copy.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-12T20:27:48.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StoreClothing.json",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\WatchPages\\StoreClothing.json",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\WatchPages\\StoreClothing.json",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\WatchPages\\StoreClothing.json",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\WatchPages\\StoreClothing.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-14T14:00:11.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PlayHighlight.json",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\WatchPages\\PlayHighlight.json",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\WatchPages\\PlayHighlight.json",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\WatchPages\\PlayHighlight.json",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\WatchPages\\PlayHighlight.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-14T14:00:10.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AuthLauncherController.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\AuthLauncherController.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\AuthLauncherController.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\AuthLauncherController.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Controllers\\AuthLauncherController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACsAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T13:36:51.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MatchmakingController.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\MatchmakingController.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\MatchmakingController.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\MatchmakingController.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Controllers\\MatchmakingController.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAIwKYAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:54:48.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LinkController.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\LinkController.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\LinkController.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\LinkController.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Controllers\\LinkController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:54:44.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ImageController.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\ImageController.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\ImageController.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\ImageController.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Controllers\\ImageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T20:23:31.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CDNController.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\CDNController.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\CDNController.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\CDNController.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Controllers\\CDNController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwDwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:53:44.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CampusNetController.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\CampusNetController.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\CampusNetController.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\CampusNetController.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Controllers\\CampusNetController.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAcwJEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:55:11.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CampusDllController.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\CampusDllController.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\CampusDllController.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\CampusDllController.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Controllers\\CampusDllController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T20:57:11.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "OnlinePlayers.html",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Web\\Campus_Net\\OnlinePlayers.html",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Web\\Campus_Net\\OnlinePlayers.html",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Web\\Campus_Net\\OnlinePlayers.html",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Web\\Campus_Net\\OnlinePlayers.html",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAAOEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-08-12T20:28:31.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PlayMenuTabs.json",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\WatchPages\\PlayMenuTabs.json",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\WatchPages\\PlayMenuTabs.json",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\WatchPages\\PlayMenuTabs.json",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\WatchPages\\PlayMenuTabs.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-12T22:36:39.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PhotonAuthController.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\PhotonAuthController.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\PhotonAuthController.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\PhotonAuthController.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Controllers\\PhotonAuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T08:46:35.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DiscordBot.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\DiscordBot\\DiscordBot.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\DiscordBot\\DiscordBot.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\DiscordBot\\DiscordBot.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\DiscordBot\\DiscordBot.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAkwE4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:45:46.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ConfigCampus.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\ConfigCampus.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\ConfigCampus.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\ConfigCampus.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\server\\ConfigCampus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T21:39:52.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Utils.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Utils.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Utils.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\server\\Utils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:55:38.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Hile.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\Hile.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\Hile.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\Hile.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\Hile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:54:39.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "APIController.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\APIController.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\APIController.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\APIController.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Controllers\\APIController.cs",
+              "ViewState": "AgIAAOEJAAAAAAAAAAAcwP4JAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:51:25.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "communityboard.json",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\communityboard.json",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\communityboard.json",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\communityboard.json",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\communityboard.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-12T22:36:42.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "LoadingScreenTipData.json",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\LoadingScreenTipData.json",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\LoadingScreenTipData.json",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\LoadingScreenTipData.json",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\LoadingScreenTipData.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-12T22:37:11.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Index.html",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Web\\Index.html",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Web\\Index.html",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Web\\Index.html",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Web\\Index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-08-12T20:23:47.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Rooms.db",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\DBs\\Rooms.db",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\DBs\\Rooms.db",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\DBs\\Rooms.db",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Data\\DBs\\Rooms.db",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGHSURBVDhPjZPNSxtBGIefXTcSYlv2T1CKWAVFSgsVvClCexBEqteK5yJEl22gheLBD4KCIPpneGwp4hcKNdQqiGDxkNBW8WI\u002BDtltkp2Ml\u002B6iO8b4wMB8/N6HeWFG4z8J20qDbPbXKlrGqzKUTCaPgi0pZTBP2FOyXC7XHAl7Sk5//pSzLKs7KAL0m4t6vBsbNx83RTdvSh4sME2T1ZVlXNc1DV1uhs\u002BVFtZ3f8hvOymlFb8dv065wclZhq/b\u002B2Rzea6yOda\u002BbPHz\u002BDQcC1AEhq7jOC4vutp52d2B4zoYhhILUE48IahUyoiqoCoEXqWC54lwLEARlEolNGBrL8XG7nc0DVIHhzjuv3AU7hI873zGyOAATx7FEJ7g4vKc33//MLe4xOmvs3BcFfgMvenndV8vhXyBmY82\u002BWyWaLQxHKstACgWHQwd3sctIpGGWy/X515BW\u002BtTPsQn6O15xcLcDC3N6le5VwDQFIsx\u002BnY4vB1QV1APzZ8k7Mk0aOod70RmZucXWgCuAZnTw6qHi\u002BiqAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-08-13T20:23:15.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BotCommands.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\DiscordBot\\BotCommands.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\DiscordBot\\BotCommands.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\DiscordBot\\BotCommands.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\DiscordBot\\BotCommands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:45:40.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Equipments.json",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\items\\Equipments.json",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\items\\Equipments.json",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\items\\Equipments.json",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\items\\Equipments.json",
+              "ViewState": "AgIAABYCAAAAAAAAAAAAAPgFAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-12T22:38:14.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "AllCatalog.json",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\AllCatalog.json",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\AllCatalog.json",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\AllCatalog.json",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\AllCatalog.json",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-12T22:36:41.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "NotiConfigCategories.json",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\NotiConfigCategories.json",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\NotiConfigCategories.json",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\NotiConfigCategories.json",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\NotiConfigCategories.json",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-12T22:37:15.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "0088d207-017b-45a1-9ee6-1375ed29b0d3_assets.json",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\BakedBulk\\0088d207-017b-45a1-9ee6-1375ed29b0d3_assets.json",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\BakedBulk\\0088d207-017b-45a1-9ee6-1375ed29b0d3_assets.json",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\BakedBulk\\0088d207-017b-45a1-9ee6-1375ed29b0d3_assets.json",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\BakedBulk\\0088d207-017b-45a1-9ee6-1375ed29b0d3_assets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-12T22:37:56.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "new_1.json",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\AlgorithmicLists\\new_1.json",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\AlgorithmicLists\\new_1.json",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\AlgorithmicLists\\new_1.json",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\AlgorithmicLists\\new_1.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-12T22:38:00.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "StoreConsumables.json",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\WatchPages\\StoreConsumables.json",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\WatchPages\\StoreConsumables.json",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\WatchPages\\StoreConsumables.json",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\WatchPages\\StoreConsumables.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-12T22:36:34.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "CommunityBoard.json",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\WatchPages\\CommunityBoard.json",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\WatchPages\\CommunityBoard.json",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\WatchPages\\CommunityBoard.json",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\WatchPages\\CommunityBoard.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-12T22:36:32.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Icebreakers.json",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\Charades\\Icebreakers.json",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\Charades\\Icebreakers.json",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\APIS\\Charades\\Icebreakers.json",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Data\\APIS\\Charades\\Icebreakers.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-12T22:36:25.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Chat.db",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\DBs\\Chat.db",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\DBs\\Chat.db",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\DBs\\Chat.db",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Data\\DBs\\Chat.db",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGHSURBVDhPjZPNSxtBGIefXTcSYlv2T1CKWAVFSgsVvClCexBEqteK5yJEl22gheLBD4KCIPpneGwp4hcKNdQqiGDxkNBW8WI\u002BDtltkp2Ml\u002B6iO8b4wMB8/N6HeWFG4z8J20qDbPbXKlrGqzKUTCaPgi0pZTBP2FOyXC7XHAl7Sk5//pSzLKs7KAL0m4t6vBsbNx83RTdvSh4sME2T1ZVlXNc1DV1uhs\u002BVFtZ3f8hvOymlFb8dv065wclZhq/b\u002B2Rzea6yOda\u002BbPHz\u002BDQcC1AEhq7jOC4vutp52d2B4zoYhhILUE48IahUyoiqoCoEXqWC54lwLEARlEolNGBrL8XG7nc0DVIHhzjuv3AU7hI873zGyOAATx7FEJ7g4vKc33//MLe4xOmvs3BcFfgMvenndV8vhXyBmY82\u002BWyWaLQxHKstACgWHQwd3sctIpGGWy/X515BW\u002BtTPsQn6O15xcLcDC3N6le5VwDQFIsx\u002BnY4vB1QV1APzZ8k7Mk0aOod70RmZucXWgCuAZnTw6qHi\u002BiqAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-08-12T22:11:39.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AvatarEffectConfig_v1.json",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\CDN\\Configs\\Prod\\AvatarEffectConfig_v1.json",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\CDN\\Configs\\Prod\\AvatarEffectConfig_v1.json",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\CDN\\Configs\\Prod\\AvatarEffectConfig_v1.json",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Data\\CDN\\Configs\\Prod\\AvatarEffectConfig_v1.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-12T22:11:30.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "SkuConfig_v1.json",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\CDN\\Configs\\SkuConfig_v1.json",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\CDN\\Configs\\SkuConfig_v1.json",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\CDN\\Configs\\SkuConfig_v1.json",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Data\\CDN\\Configs\\SkuConfig_v1.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-12T22:11:23.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "RRPlusConfig_v3.json",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\CDN\\Configs\\RRPlusConfig_v3.json",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\CDN\\Configs\\RRPlusConfig_v3.json",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\CDN\\Configs\\RRPlusConfig_v3.json",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Data\\CDN\\Configs\\RRPlusConfig_v3.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-12T22:11:24.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "1b057e6e-979d-4f30-8856-a386f77c90da",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\CDN\\Configs\\1b057e6e-979d-4f30-8856-a386f77c90da",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\CDN\\Configs\\1b057e6e-979d-4f30-8856-a386f77c90da",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\CDN\\Configs\\1b057e6e-979d-4f30-8856-a386f77c90da",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Data\\CDN\\Configs\\1b057e6e-979d-4f30-8856-a386f77c90da",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-12T22:11:21.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "HeartbeatDB.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\dbs\\HeartbeatDB.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\dbs\\HeartbeatDB.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\dbs\\HeartbeatDB.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\dbs\\HeartbeatDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:54:37.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "ClubDB.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\dbs\\ClubDB.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\dbs\\ClubDB.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\dbs\\ClubDB.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\dbs\\ClubDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:54:01.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\DataController.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\DataController.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\DataController.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Controllers\\DataController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:54:23.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "ClientSecurity.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\ClientSecurity.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\ClientSecurity.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\ClientSecurity.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\server\\ClientSecurity.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAwwLsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:53:55.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "FriendsDB.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\dbs\\FriendsDB.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\dbs\\FriendsDB.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\dbs\\FriendsDB.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\dbs\\FriendsDB.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:54:34.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ChatDB.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\dbs\\ChatDB.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\dbs\\ChatDB.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\dbs\\ChatDB.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\dbs\\ChatDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:53:52.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Webhook.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Webhook.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Webhook.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Webhook.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\server\\Webhook.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:58:25.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "badwords.txt",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\badwords.txt",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\badwords.txt",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\badwords.txt",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Data\\badwords.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-08-12T21:25:05.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "eeeee.txt",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\eeeee.txt",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Data\\eeeee.txt",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Data\\eeeee.txt",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Data\\eeeee.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-08-12T21:26:22.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Sanitize.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\Sanitize.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\Sanitize.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\Sanitize.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\Sanitize.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:55:22.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\ChatController.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Controllers\\ChatController.cs",
+              "ViewState": "AgIAAPsAAAAAAAAAAAAcwBkBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:53:48.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "EventDB.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\dbs\\EventDB.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\dbs\\EventDB.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\dbs\\EventDB.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\dbs\\EventDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:54:28.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "AIController.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\AIController.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\AIController.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\AIController.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Controllers\\AIController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:51:02.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\AccountsController.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:49:28.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "ClubsController.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\ClubsController.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\ClubsController.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\ClubsController.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Controllers\\ClubsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:54:02.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\NotificationController.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Controllers\\NotificationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T20:28:25.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "DiscordController.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\DiscordController.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\DiscordController.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\DiscordController.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Controllers\\DiscordController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:54:24.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "EconController.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\EconController.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\EconController.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\EconController.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Controllers\\EconController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAYwGIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:54:26.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CommandConsole.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Commands\\CommandConsole.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Commands\\CommandConsole.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Commands\\CommandConsole.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Commands\\CommandConsole.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowBkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:54:17.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "PlayerDB.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\dbs\\PlayerDB.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\dbs\\PlayerDB.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\dbs\\PlayerDB.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\dbs\\PlayerDB.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:54:57.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:53:28.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "LoginV4.html",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Web\\Admin\\LoginV4.html",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Web\\Admin\\LoginV4.html",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Web\\Admin\\LoginV4.html",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Web\\Admin\\LoginV4.html",
+              "ViewState": "AgIAADoAAAAAAAAAAAAuwG4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-08-12T20:28:14.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "linkplayer.html",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Web\\Discord\\linkplayer.html",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Web\\Discord\\linkplayer.html",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Web\\Discord\\linkplayer.html",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Web\\Discord\\linkplayer.html",
+              "ViewState": "AgIAAEwAAAAAAAAAAADwv2cAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-08-12T20:27:33.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "Login.html",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Web\\Campus_Net\\Login.html",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Web\\Campus_Net\\Login.html",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Web\\Campus_Net\\Login.html",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Web\\Campus_Net\\Login.html",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwC0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-08-12T20:27:59.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "CommerceController.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\CommerceController.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\CommerceController.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\CommerceController.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Controllers\\CommerceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:54:20.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "BotController.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\BotController.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\BotController.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\BotController.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Controllers\\BotController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:53:42.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "Notifications.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Notifications.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Notifications.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Notifications.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\server\\Notifications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:54:55.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "ServerController.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\ServerController.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\ServerController.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\ServerController.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Controllers\\ServerController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAcwH0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:55:23.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "Sessions.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Sessions.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Sessions.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Sessions.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\server\\Sessions.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAIwF0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:55:30.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "Steam.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Steam.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Steam.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Steam.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\server\\Steam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:55:35.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "WebController.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\WebController.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\Controllers\\WebController.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\Controllers\\WebController.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\Controllers\\WebController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwE8AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:58:22.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "VersionCheck.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\VersionCheck.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\VersionCheck.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\VersionCheck.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\VersionCheck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:58:12.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "SuccessResponse.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\SuccessResponse.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\SuccessResponse.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\SuccessResponse.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\SuccessResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:55:37.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "Sub.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\Sub.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\Sub.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\Sub.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\Sub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:55:37.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "SteamAuthResponse.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\SteamAuthResponse.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\SteamAuthResponse.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\SteamAuthResponse.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\SteamAuthResponse.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:55:36.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "SettingsDBClasses.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\SettingsDBClasses.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\SettingsDBClasses.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\SettingsDBClasses.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\SettingsDBClasses.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:55:34.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "SettingsDB.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\dbs\\SettingsDB.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\dbs\\SettingsDB.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\dbs\\SettingsDB.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\dbs\\SettingsDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:55:33.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "RRPlus.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\RRPlus.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\RRPlus.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\RRPlus.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\RRPlus.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:55:22.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "RoomDBClasses.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\RoomDBClasses.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\RoomDBClasses.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\RoomDBClasses.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\RoomDBClasses.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:55:21.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "Reputation.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\Reputation.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\Reputation.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\Reputation.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\Reputation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:55:10.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "ProgressionBulk.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\ProgressionBulk.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\ProgressionBulk.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\ProgressionBulk.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\ProgressionBulk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:55:08.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "PlayerDBClasses.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\PlayerDBClasses.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\PlayerDBClasses.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\PlayerDBClasses.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\PlayerDBClasses.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:55:01.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "NS.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\NS.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\NS.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\NS.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\NS.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:54:56.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "MyObjectives.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\MyObjectives.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\MyObjectives.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\MyObjectives.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\MyObjectives.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:54:54.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "ModerationBlockDetails.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\ModerationBlockDetails.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\ModerationBlockDetails.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\ModerationBlockDetails.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\server\\ModerationBlockDetails.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:54:53.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "LockedItems.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\LockedItems.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\LockedItems.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\LockedItems.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\LockedItems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:54:47.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "LeaderboardDBClasses.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\LeaderboardDBClasses.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\LeaderboardDBClasses.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\LeaderboardDBClasses.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\LeaderboardDBClasses.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:54:43.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "Images.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Images.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Images.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Images.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\server\\Images.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:54:40.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "FriendDBClasses.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\FriendDBClasses.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\FriendDBClasses.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\FriendDBClasses.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\FriendDBClasses.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:54:33.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "EventDBClasses.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\EventDBClasses.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\EventDBClasses.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\EventDBClasses.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\EventDBClasses.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:54:32.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Emojis.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Emojis.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Emojis.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Emojis.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\server\\Emojis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:54:27.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CustomAvatarItems.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\CustomAvatarItems.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\CustomAvatarItems.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\CustomAvatarItems.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\CustomAvatarItems.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:54:22.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Config.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\Config.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\Config.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\Config.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\Config.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:54:21.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ClubDBClasses.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\ClubDBClasses.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\ClubDBClasses.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\ClubDBClasses.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\ClubDBClasses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:54:02.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ChatDBClasses.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\ChatDBClasses.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\ChatDBClasses.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\ChatDBClasses.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\db_class\\ChatDBClasses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:53:54.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "AuthHelper.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\AuthHelper.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\AuthHelper.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\AuthHelper.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\server\\AuthHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:53:40.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Amplitude2023.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\Amplitude2023.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\Amplitude2023.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\Amplitude2023.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\Amplitude2023.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:51:15.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ActionLink.cs",
+              "DocumentMoniker": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\ActionLink.cs",
+              "RelativeDocumentMoniker": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\ActionLink.cs",
+              "ToolTip": "D:\\Puck\\Campus2025Server-2025\\Server\\2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\ActionLink.cs",
+              "RelativeToolTip": "2025-RecRoom-Server-E12354-main\\api\\server\\Classes\\ActionLink.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T19:50:04.905Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

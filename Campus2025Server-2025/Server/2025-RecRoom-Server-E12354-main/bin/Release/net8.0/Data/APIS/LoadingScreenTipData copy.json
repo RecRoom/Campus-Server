@@ -1,0 +1,37 @@
+[
+    {
+        "ImageName": "Maintenance.jpg",
+        "Message": "The game may go under Maintenance from time to time.",
+        "PlatformMask": -1,
+        "RoomNames": [],
+        "Title": "Campus isn't the most stable revival"
+    },
+    {
+        "ImageName": "9e99537b55ca494484c1637fb77d23f9",
+        "Message": "Pair up, earn paint, and bring Recasso’s paintings to life. Start your masterpiece today!",
+        "PlatformMask": -1,
+        "RoomNames": [],
+        "Title": "Paint Together. Progress Together. "
+    },
+    {
+        "ImageName": "CampusLoadingScreen.jpg",
+        "Message": "This is your brand new Campus, we welcome everyone ",
+        "PlatformMask": -1,
+        "RoomNames": [],
+        "Title": "Welcome to Campus"
+    },
+    {
+        "ImageName": "GraduationLoadingScreen.jpg",
+        "Message": "If you know what it means",
+        "PlatformMask": -1,
+        "RoomNames": [],
+        "Title": "And I Wonder"
+    },
+    {
+        "ImageName": "LateRegistrationLoadingScreen",
+        "Message": "Hey Mr West, Wake up Mr West",
+        "PlatformMask": -1,
+        "RoomNames": [],
+        "Title": "Wake up Mr West"
+    }
+]
